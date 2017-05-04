@@ -1,2 +1,4 @@
 # hello-world
-my vert first repository in Github
+my very first repository in Github
+
+This is the first changelist on this repository.
